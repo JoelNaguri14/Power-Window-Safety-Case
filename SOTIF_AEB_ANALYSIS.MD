@@ -150,7 +150,7 @@ Key findings:
 **Sunder Joel Naguri**
 MSc Mechatronics and Computer Systems Engineering — University of East London
 📧 nagurijoel@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub Portfolio](https://github.com/JoelNaguri14)
+🔗 [GitHub Portfolio](https://github.com/JoelNaguri14)
 
 *Currently on UK Graduate Route Visa (valid until October 2027) — available to start immediately — eligible for Skilled Worker sponsorship*
 
