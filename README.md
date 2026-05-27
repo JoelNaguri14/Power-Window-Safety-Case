@@ -1,11 +1,11 @@
-About This Project
-This repository contains a functional safety analysis of an automotive power window system, conducted in accordance with ISO 26262.
-What's covered:
-Item Definition and system boundary
-HARA with ASIL D determination
-Safety Goal and Functional Safety Requirements
-Technical Safety Requriements
-1oo2 diverse redundancy architecture decision
+🛠️ Skills Demonstrated
+ISO 26262 HARA ASIL Determination (S×E×C) Safety Goal Derivation FTTI Budgeting
+FSR Derivation TSR Derivation Requirements Traceability 1oo2 Architecture
+Diverse Redundancy FIT Rate Concepts V-Model Lifecycle SOTIF / ISO 21448
+Functional Safety Engineering Automotive Embedded Systems Hardware Architecture
 
-Author MSc Mechatronics and Computer Systems Engineering - University of East London
-Functional Safety Knowledge- ISO 26262, SOTIF principles, FMEA, FTA, V-Model lifecycle.
+👤 Author
+Sunder Joel Naguri
+MSc Mechatronics and Computer Systems Engineering — University of East London
+📧 nagurijoel@gmail.com · 🔗 GitHub Portfolio
+UK Graduate Route Visa — valid until October 2027 · Available to start immediately · Eligible for Skilled Worker sponsorship
